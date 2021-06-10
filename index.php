@@ -21,8 +21,10 @@
  
 
 <?php
- // Randomize the Titles, Description, Keywords
-$word1 = array("Hi", "Hello", "Namaskar", "Hello Visitor");
+    
+ // Randomize the Titles, Description, Keywords to check that the main page remains randomizing the matter.
+    
+$word1 = array("Hi", "Hello", "Hola", "Hello Visitor");
 $word2 = array("Thank you", "Thanks", "Thank you very much");
 $word3 = array("Visiting", "Opening", "Browsing");
 $word4 = array("my website", "this website", "this blog");
